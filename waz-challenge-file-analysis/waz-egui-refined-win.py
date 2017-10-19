@@ -1,5 +1,5 @@
 # coding=utf-8
-"""Converted to use easygui in Python 3.x.
+"""Converted to easygui in Python 3.x.
 
 The text file '01.txt' contains a random selection of zeros and ones.
 Write a program to process it and find out:
