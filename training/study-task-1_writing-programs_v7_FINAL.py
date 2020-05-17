@@ -1,10 +1,4 @@
-#region Main "Title"
 # coding=utf-8
-"""Study Task 1(a), 1(b) and 1(c): Writing Programs
-Author: Russell Dyson
-Custom region folding: "Visual Studio Code Custom Folding Extension" (maptz)
-"""
-#endregion
 #region Main "Setup Environment"
 import os
 import time
