@@ -1,7 +1,6 @@
 # coding=utf-8
 """
 Random Number Guessing Game
-Practice and Reflect - Task 1
 """
 
 # Setup environment
