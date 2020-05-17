@@ -1,7 +1,6 @@
 #coding=utf-8
 """
-Item Cost & Change Calculator :: Practice and Reflect - Task 2
-Russell Dyson
+Item Cost & Change Calculator
 """
 
 # Setup environment
