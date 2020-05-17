@@ -97,7 +97,7 @@ def costCalc():
             print("1p  :", pennies)
 
             # Manners cost nothing, but mean everything
-            print("\nThank you for shopping at TES Learn.\n")
+            print("\nThank you for shopping.\n")
         else:
             pass
 
