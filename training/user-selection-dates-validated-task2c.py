@@ -1,4 +1,3 @@
-# Task 1.3: Programming User Selection
 # Validated Date Program
 import time
 import sys
