@@ -1,10 +1,4 @@
-#region Main "Title"
 # coding=utf-8
-"""Study Task 2 -Task 3
-Author: Russell Dyson
-Custom region folding: "Visual Studio Code Custom Folding Extension" (maptz)
-"""
-#endregion
 #region Main "Setup Environment"
 import os
 import random
